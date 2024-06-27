@@ -1,0 +1,343 @@
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.AssemblyReference.cache
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.cache
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.lref
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.exe
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.deps.json
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.runtimeconfig.json
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\yaney\source\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.g.resources
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfoInputs.cache
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfo.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.Up2Date
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.dll
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\refint\EMIAC.dll
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.genruntimeconfig.cache
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\ref\EMIAC.dll
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.baml
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.g.cs
+C:\Users\yaney\source\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.baml
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.exe
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.deps.json
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.runtimeconfig.json
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.pdb
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Projects\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.AssemblyReference.cache
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.cache
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.lref
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.g.resources
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfoInputs.cache
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfo.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.CoreCompileInputs.cache
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.Up2Date
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.dll
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\refint\EMIAC.dll
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.pdb
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.genruntimeconfig.cache
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\ref\EMIAC.dll
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.g.cs
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.baml
+D:\Projects\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.exe
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.deps.json
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.cache
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.lref
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.baml
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.g.resources
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.Up2Date
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\refint\EMIAC.dll
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\EMIAC (2)\EMIAC\EMIAC\obj\Debug\net8.0-windows\ref\EMIAC.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.exe
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.deps.json
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.runtimeconfig.json
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.cache
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.lref
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.g.resources
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfo.cs
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.Up2Date
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\refint\EMIAC.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.genruntimeconfig.cache
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\ref\EMIAC.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.exe
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.deps.json
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.runtimeconfig.json
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.AssemblyReference.cache
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Resources\1white.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Resources\black.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.cache
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC_MarkupCompile.lref
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\App.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolanalyze.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolpriemi.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Service\lolsearch.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDAdmin.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDPatient.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AdminCRUDVrach.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthSotrWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\AuthWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\DoctorWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\MainUserWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Page1.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\PatientMain.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\Priemi_Page.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ProfileApp.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\SettingsUserWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInteface1\MainDobavCard.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\MainUserDobav.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachiImyaKartinka.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowKartochNaprav.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\UserInterface2\VrachWindowZapisi.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\ZapisiUserWindow.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\View\zapispri.baml
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.g.resources
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfoInputs.cache
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.AssemblyInfo.cs
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.csproj.Up2Date
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\refint\EMIAC.dll
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.pdb
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\EMIAC.genruntimeconfig.cache
+C:\Users\Андрей\Downloads\123\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\ref\EMIAC.dll
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Resources\1white.baml
+C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\obj\Debug\net8.0-windows\Resources\black.baml

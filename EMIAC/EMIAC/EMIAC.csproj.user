@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\Desktop\EMIAC\EMIAC\EMIAC\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Service\lolanalyze.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Service\lolpriemi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Service\lolsearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Page1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PatientMain.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Priemi_Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ProfileApp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\zapispri.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\1white.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\black.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Service\lolanalyze.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Service\lolpriemi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Service\lolsearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Page1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PatientMain.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Priemi_Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ProfileApp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\zapispri.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

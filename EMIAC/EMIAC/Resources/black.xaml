@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Brush x:Key="primary">#434343</Brush>
+    <Brush x:Key="secondary">#807F7F</Brush>
+    <Brush x:Key="text">#FFFFFF</Brush>
+    <Brush x:Key="stext">#EDEDED</Brush>
+    <Brush x:Key="focus">#007BFE</Brush>
+    <Brush x:Key="vnimanie">#FE0000</Brush>
+</ResourceDictionary>

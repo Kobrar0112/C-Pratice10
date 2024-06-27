@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="View\Images\DetXir.png" />
+    <None Remove="View\Images\Hronik.png" />
+    <None Remove="View\Images\icon-app.ico" />
+    <None Remove="View\Images\Konsylt.png" />
+    <None Remove="View\Images\KrestikBel.png" />
+    <None Remove="View\Images\KrestikCher.png" />
+    <None Remove="View\Images\KvadratBel.png" />
+    <None Remove="View\Images\KvadratCher.png" />
+    <None Remove="View\Images\LiniyaBel.png" />
+    <None Remove="View\Images\LiniyaCher.png" />
+    <None Remove="View\Images\Molniya.png" />
+    <None Remove="View\Images\Naprav.png" />
+    <None Remove="View\Images\Oftal.png" />
+    <None Remove="View\Images\Otor.png" />
+    <None Remove="View\Images\Pediatr.png" />
+    <None Remove="View\Images\ShtykaVrach.png" />
+    <None Remove="View\Images\Spravki.png" />
+    <None Remove="View\Images\Ychastkovii.png" />
+    <None Remove="View\Images\ykol.png" />
+    <None Remove="View\Images\Zybnoi.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="View\Images\DetXir.png" />
+    <Resource Include="View\Images\Hronik.png" />
+    <Resource Include="View\Images\icon-app.ico" />
+    <Resource Include="View\Images\Konsylt.png" />
+    <Resource Include="View\Images\KrestikBel.png" />
+    <Resource Include="View\Images\KrestikCher.png" />
+    <Resource Include="View\Images\KvadratBel.png" />
+    <Resource Include="View\Images\KvadratCher.png" />
+    <Resource Include="View\Images\LiniyaBel.png" />
+    <Resource Include="View\Images\LiniyaCher.png" />
+    <Resource Include="View\Images\Molniya.png" />
+    <Resource Include="View\Images\Naprav.png" />
+    <Resource Include="View\Images\Oftal.png" />
+    <Resource Include="View\Images\Otor.png" />
+    <Resource Include="View\Images\Pediatr.png" />
+    <Resource Include="View\Images\ShtykaVrach.png" />
+    <Resource Include="View\Images\Spravki.png" />
+    <Resource Include="View\Images\Ychastkovii.png" />
+    <Resource Include="View\Images\ykol.png" />
+    <Resource Include="View\Images\Zybnoi.png" />
+  </ItemGroup>
+
+</Project>

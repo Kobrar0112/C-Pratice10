@@ -1,0 +1,85 @@
+﻿<Window x:Class="EMIAC.View.AdminCRUDAdmin"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"  
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EMIAC.View"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        Title="AdminCRUDAdmin"  Height="850" Width="1530"
+        DataContext="{Binding AdminViewModel}">
+    <Grid Background="{DynamicResource primary}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="244"/>
+            <ColumnDefinition Width="35"/>
+            <ColumnDefinition Width="35"/>
+            <ColumnDefinition Width="35"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.ColumnSpan="5" Background="#007BFE"/>
+        <TextBlock Text="ЕМИАС - Администратор" FontSize="20" Foreground="White" TextWrapping="Wrap" FontWeight="Bold" Margin="10,5,330,16"/>
+        <materialDesign:PackIcon Kind="WeatherNight" Foreground="White" Height="30" Width="30" Margin="269,5,0,0"/>
+        <Button Margin="266,4,889,14" Foreground="Transparent" Background="Transparent"  Click="Button_Click"/>
+        <DataGrid Grid.Row="1" Grid.RowSpan="12" ItemsSource="{Binding Administrators}" SelectedItem="{Binding SelectedAdministrator}" IsReadOnly="True" AutoGenerateColumns="False" Background="{DynamicResource secondary}" Foreground="{DynamicResource text}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID_Administrator}"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding AdminSurname}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding AdminName}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding AdminMiddleName}"/>
+                <DataGridTextColumn Header="Логин" Binding="{Binding AdminEnterLogin}"/>
+                <DataGridTextColumn Header="Пароль" Binding="{Binding AdminEnterPassword}"/>
+            </DataGrid.Columns>
+        </DataGrid >
+        <ComboBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4" Height="30" materialDesign:HintAssist.Hint="Роль пользователя" SelectionChanged="PerexodAdmina" x:Name="ComboPerexodAdmin" Margin="30,0,30,0" Foreground="{DynamicResource text}"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="4" materialDesign:HintAssist.Hint="Логин для входа" 
+         Margin="30,5,30,5" Text="{Binding SelectedAdministrator.AdminEnterLogin, UpdateSourceTrigger=PropertyChanged}" Foreground="{DynamicResource text}"/>
+
+        <TextBox Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" materialDesign:HintAssist.Hint="Пароль для входа" 
+         Margin="30,5,30,5" Text="{Binding SelectedAdministrator.AdminEnterPassword, UpdateSourceTrigger=PropertyChanged}" Foreground="{DynamicResource text}"/>
+
+        <TextBox Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="4" materialDesign:HintAssist.Hint="Фамилия" 
+         Margin="30,5,30,5" Text="{Binding SelectedAdministrator.AdminSurname, UpdateSourceTrigger=PropertyChanged}" Foreground="{DynamicResource text}"/>
+
+        <TextBox Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="4" materialDesign:HintAssist.Hint="Имя" 
+         Margin="30,5,30,5" Text="{Binding SelectedAdministrator.AdminName, UpdateSourceTrigger=PropertyChanged}" Foreground="{DynamicResource text}"/>
+
+        <TextBox Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="4" materialDesign:HintAssist.Hint="Отчество" 
+         Margin="30,5,30,5" Text="{Binding SelectedAdministrator.AdminMiddleName, UpdateSourceTrigger=PropertyChanged}" Foreground="{DynamicResource text}"/>
+
+        <Button Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="4" Foreground="White" Background="#007BFE" Content="Добавить" Margin="30,5,30,3" Command="{Binding AddCommand}"/>
+        <Button Grid.Row="10" Grid.Column="1" Grid.ColumnSpan="4" Foreground="White" Background="#007BFE" Content="Изменить" Margin="30,5,30,3" Command="{Binding UpdateCommand}"/>
+        <Button Grid.Row="11" Grid.Column="1" Grid.ColumnSpan="4" Foreground="White" Background="#007BFE" Content="Удалить" Margin="30,5,30,3" Command="{Binding DeleteCommand}"/>
+        <Button Grid.Row="12" Grid.Column="1" Grid.ColumnSpan="4" Foreground="White" Background="#FE0000" Content="Выйти из аккаунта" Margin="30,5,30,3" Click="ExitToAuthWindow"/>
+        <Button Grid.Column="2" BorderBrush="Transparent" Click="Svernyt" Margin="0,10,0,8" Width="25" Height="25">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/LiniyaBel.png"/>
+            </Button.Background>
+        </Button>
+        <Button Grid.Column="3" BorderBrush="Transparent" Click="FullEkran" Grid.ColumnSpan="2" Margin="0,10,30,8" Width="25" Height="25">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/KvadratBel.png"/>
+            </Button.Background>
+        </Button>
+        <Button Grid.Column="4" BorderBrush="Transparent" Margin="5,10,-2,8" Click="Exit" Width="25" Height="25">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/KrestikBel.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
